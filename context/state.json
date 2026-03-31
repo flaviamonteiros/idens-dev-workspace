@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "description": "Fonte única de verdade da área de desenvolvimento da Idens",
+    "updated_at": "",
+    "updated_by": ""
+  },
+  "projects": [],
+  "agents_status": {
+    "dev-core": "idle",
+    "arquiteto": "idle",
+    "qa": "idle",
+    "deploy": "idle",
+    "documentador": "idle"
+  },
+  "active_tasks": [],
+  "completed_tasks": [],
+  "blocked_tasks": []
+}
