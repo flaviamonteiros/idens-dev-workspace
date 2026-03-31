@@ -89,11 +89,15 @@ Nunca assume. Nunca improvisa fora do domínio. Sempre documenta o bloqueio.
 
 ## Principals da Área de Dev
 
-| Principal | Domínio de autoridade |
-|-----------|----------------------|
-| Hugo | Decisões de infraestrutura, deploy, stack |
-| Flávia | Escopo de produto, priorização de features |
-| Gerzi | Processos, padrões de entrega, documentação |
+> ⚠️ FASE DE TESTES — qualquer um dos 3 sócios pode aprovar qualquer decisão.
+> Isso permite que qualquer principal percorra e valide o fluxo completo de forma independente.
+> Rever quando sair de fase de testes.
+
+| Principal | Pode aprovar |
+|-----------|-------------|
+| Hugo | Qualquer decisão que requer aprovação |
+| Flávia | Qualquer decisão que requer aprovação |
+| Gerzi | Qualquer decisão que requer aprovação |
 
 Conflito entre principals → reunião dos 3 antes de prosseguir.
 
